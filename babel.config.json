@@ -1,0 +1,8 @@
+// - CONHEÇA O BABEL
+// 	* Compreender o papel do Babel na transpilação de código JavaScript para versões compatíveis com navegadores mais antigos;
+// 	* Aprender a configurar o Babel e criar arquivos de configuração para projetos de desenvolvimento;
+// 	* Explorar a importância de verificar a compatibilidade dos recursos do ES6+ nos navegadores e como usar o Babel para lidar com navegadores obsoletos;
+
+{
+    "presets": ["@babel/preset-env"]
+}
